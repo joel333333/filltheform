@@ -1,0 +1,58 @@
+.tappa{
+    display: flex;
+    height: 500px;
+    width: 400px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin: 150px;
+    justify-content: center;
+    text-align: center;
+
+}
+.main_container{
+    justify-items: center;
+    justify-content: center;
+}
+.form {
+    display: flex;
+    width: 250px;
+    padding: 10px;
+    margin: 20px;
+    margin-left: 65px;
+    align-items: center;
+    justify-content: center;
+    justify-items: center;
+    border-radius: 8px;
+    border-color: grey;
+    border-width: 2px;
+}
+#name{
+    width: 250px;
+}
+.personal_details{
+    text-align: center;
+}
+#add_details{
+    width: 250px;
+    padding: 10px;
+    margin-right: 65px;
+    margin-top: 40px;
+    margin-left:70px;
+    border-width: 2px;
+    border-radius: 8px;
+}
+.checkbox{
+    background-color: blue;
+    color: blue;
+    animation-composition: 10px;
+}
+#container {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.rows{
+    padding: 10px;
+    width: 150px;
+}
